@@ -7,3 +7,4 @@ Die Taumelräder habe ich sowohl als Stl wie auch als DXF abgelegt
 
 Eine Gesamtbaugruppe habe ich im Step-Format als komprimierten .rar-File abgelegt.
 In einer DXF ist auch der Zusammenbau zu sehen.
+
